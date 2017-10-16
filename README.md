@@ -1,10 +1,12 @@
 # ccminer
 
+## Forked from below and plan on removing dev donations or atleast making them optional.
+
 Based on Christian Buchner's &amp; Christian H.'s CUDA project, no more active on github since 2014.
 
 Check the [README.txt](README.txt) for the additions
 
-BTC donation address: 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo (tpruvot)
+BTC donation address: 175P8XH8bdEXNqz5qJfyyKJzgkotJMnRKX  (stoney2759)
 
 A part of the recent algos were originally written by [djm34](https://github.com/djm34) and [alexis78](https://github.com/alexis78)
 
